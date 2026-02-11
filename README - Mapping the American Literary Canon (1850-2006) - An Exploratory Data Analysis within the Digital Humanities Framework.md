@@ -96,12 +96,11 @@ Overall, the project demonstrates the value of computational methods as **explor
 
 ## Repository Structure
 
-├── CODE - Mapping the American Literary Canon (1850-2006) - An Exploratory Data Analysis within the Digital Humanities Framework.ipynb
+├── CODE_Mapping_the_American_Literary_Canon_1850_2006.ipynb
 
-├── REPORT - Mapping the American Literary Canon (1850-2006) - An Exploratory Data Analysis within the Digital Humanities Framework.pdf
+├── README_Mapping_the_American_Literary_Canon_1850_2006.md
 
-├── README - Mapping the American Literary Canon (1850-2006) - An Exploratory Data Analysis within the Digital Humanities Framework.md
-
+├── REPORT_Mapping_the_American_Literary_Canon_1850_2006.pdf
 
 ---
 
