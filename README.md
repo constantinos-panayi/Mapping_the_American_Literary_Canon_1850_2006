@@ -98,7 +98,7 @@ Overall, the project demonstrates the value of computational methods as **explor
 
 ├── CODE_Mapping_the_American_Literary_Canon_1850_2006.ipynb
 
-├── README_Mapping_the_American_Literary_Canon_1850_2006.md
+├── README.md
 
 ├── REPORT_Mapping_the_American_Literary_Canon_1850_2006.pdf
 
